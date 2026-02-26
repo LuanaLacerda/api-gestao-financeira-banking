@@ -20,11 +20,16 @@ Data & Hora: Registro de date em cada transação, permitindo análises de séri
 📊 Visão de Analista: Transformando Código em Insights
 
 Se eu fosse analisar os dados gerados por esta API hoje, eu buscaria responder:
+
 Ticket Médio de Transferência: Identificar o valor médio movimentado entre usuários.
+
 Análise de Retenção: Quais usuários realizaram depósitos mas não fizeram saques (acumuladores)?
+
 Pico de Operações: Em quais horários ou datas o volume de transações é maior?
 
 📁 Como executar
 Clone o repositório: git clone https://github.com
+
 Instale as dependências: npm install
+
 Inicie o servidor: npm run dev
